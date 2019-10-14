@@ -8,7 +8,7 @@
     {
         "name": "Relativistic Energy",
         "description": "Example lab report:  Shows relativistic expressions are correct for masses with speeds approaching the speed of light.",
-        "image": "images/relativistic_lab.png",
+        "image": "images/relativistic_lab.PNG",
         "link": "myFiles/relativity.pdf"
 	}
 ]
