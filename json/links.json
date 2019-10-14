@@ -1,26 +1,28 @@
 [
     {
-        "name": "Link",
-        "color": "red",
+        "name": "LinkedIn",
+        "color": "purple",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://www.linkedin.com/in/sasha-bakker/"
 	},
     {
-        "name": "Link",
-        "color": "red",
+        "name": "Resume",
+        "color": "purple",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "myFiles/MyResume.pdf"
 	},
     {
-        "name": "Link",
-        "color": "red",
+        "name": "GitHub",
+        "color": "purple",
         "icon": "web",
-        "url": "project1.html"
-	},
+        "url": "https://github.com/sashabakker"
+    },
     {
-        "name": "Link",
-        "color": "red",
+        "name": "Video",
+        "color": "purple",
         "icon": "web",
-        "url": "https://google.com"
-	}
+        "url": "myFiles/DSC_0014_Trim.mp4"
+}
+
+    
 ]

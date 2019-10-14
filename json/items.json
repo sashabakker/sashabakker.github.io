@@ -2,25 +2,13 @@
     {
         "name": "Vectorized 2D Random Walk",
         "description": "A particle starts at the origin and has the option of randomly choosing one of four directions for each step.",
-        "image": "images/image1.jpg",
+        "image": "images/randomwalk.png",
         "link": "myFiles/project1.html"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
-	},
-    {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
-	},
-    {
-        "name": "Project 4",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Relativistic Energy",
+        "description": "Example lab report:  Shows relativistic expressions are correct for masses with speeds approaching the speed of light.",
+        "image": "images/relativistic_lab.png",
+        "link": "myFiles/relativity.pdf"
 	}
 ]
