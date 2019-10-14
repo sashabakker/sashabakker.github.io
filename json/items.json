@@ -1,9 +1,9 @@
 [
     {
-        "name": "Project 1",
-        "description": "This is where you put description about your projects.",
+        "name": "Vectorized 2D Random Walk",
+        "description": "A particle starts at the origin and has the option of randomly choosing one of four directions for each step.",
         "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "link": "myFiles/project1.html"
 	},
     {
         "name": "Project 2",
