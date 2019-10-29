@@ -10,5 +10,11 @@
         "description": "Example lab report:  Shows relativistic expressions are correct for masses with speeds approaching the speed of light.",
         "image": "images/relativistic_lab.PNG",
         "link": "myFiles/relativity.pdf"
-	}
+    },
+    {
+        "name": "Grover's Algorithm (N-qubits)",
+        "description": "Grover's Algorithm is executed for an arbitrary number of qubits.",
+        "image": "images/grover_image.png",
+        "link": "myFiles/project5.html"
+    }
 ]
