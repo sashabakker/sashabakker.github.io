@@ -16,5 +16,11 @@
         "description": "Grover's Algorithm is executed for an arbitrary number of qubits.",
         "image": "images/grover_image.png",
         "link": "myFiles/project5.html"
+    },
+    {
+        "name": "Python Pandas Tutorial",
+        "description": "This guide uses `pandas` in Jupyter to analyze sales data for an imaginary stationery company.",
+        "image": "images/pythonpandas.PNG",
+        "link": "myFiles/MyFirstPanda.html"
     }
 ]
