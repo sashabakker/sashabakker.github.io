@@ -18,6 +18,12 @@
         "link": "myFiles/project5.html"
     },
     {
+        "name": "Shor's Algorithm (7-qubits)",
+        "description": "Shor's Algorithm is executed for 7-qubits.",
+        "image": "images/shors.PNG",
+        "link": "myFiles/Shor_7qubits_Bakker.html"
+    },
+    {
         "name": "Python Pandas Tutorial",
         "description": "This guide uses `pandas` in Jupyter to analyze sales data for an imaginary stationery company.",
         "image": "images/pythonpandas.PNG",
