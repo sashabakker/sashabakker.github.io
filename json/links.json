@@ -1,28 +1,16 @@
 [
     {
         "name": "LinkedIn",
-        "color": "purple",
-        "icon": "web",
         "url": "https://www.linkedin.com/in/sasha-bakker/"
 	},
     {
         "name": "Resume",
-        "color": "purple",
-        "icon": "web",
         "url": "myFiles/Bakker_Sasha_Resume.pdf"
 	},
     {
         "name": "GitHub",
-        "color": "purple",
-        "icon": "web",
         "url": "https://github.com/sashabakker"
-    },
-    {
-        "name": "Video",
-        "color": "purple",
-        "icon": "web",
-        "url": "myFiles/DSC_0014_Trim.mp4"
-}
+    }
 
     
 ]

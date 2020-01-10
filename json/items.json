@@ -1,16 +1,5 @@
 [
-    {
-        "name": "Vectorized 2D Random Walk",
-        "description": "A particle starts at the origin and has the option of randomly choosing one of four directions for each step.",
-        "image": "images/randomwalk.png",
-        "link": "myFiles/project1.html"
-	},
-    {
-        "name": "Relativistic Energy",
-        "description": "Example lab report:  Shows relativistic expressions are correct for masses with speeds approaching the speed of light.",
-        "image": "images/relativistic_lab.PNG",
-        "link": "myFiles/relativity.pdf"
-    },
+
     {
         "name": "Grover's Algorithm (N-qubits)",
         "description": "Grover's Algorithm is executed for an arbitrary number of qubits.",
@@ -24,9 +13,40 @@
         "link": "myFiles/Shor_7qubits_Bakker.html"
     },
     {
+        "name": "Programming for Physicists",
+        "description": "Exercises from Chapter 2 of Mark Newman's \"Computational Physics\".",
+        "image": "images/Ch2_img.PNG",
+        "link": "myFiles/Chapter_02.html"
+    },
+    {
+        "name": "Graphics and Visualization",
+        "description": "Exercises from Chapter 3 of Mark Newman's \"Computational Physics\".",
+        "image": "images/Ch3_img.PNG",
+        "link": "myFiles/Chapter_03.html"
+    },
+    {
+        "name": "Integrals and Derivatives (Part 1)",
+        "description": "Exercises from Chapter 5 of Mark Newman's \"Computational Physics\".",
+        "image": "images/Ch5p1_img.PNG",
+        "link": "myFiles/Chapter_05_Pt1.html"
+    },
+    {
         "name": "Python Pandas Tutorial",
         "description": "This guide uses `pandas` in Jupyter to analyze sales data for an imaginary stationery company.",
         "image": "images/pythonpandas.PNG",
         "link": "myFiles/MyFirstPanda.html"
+    },
+    {
+        "name": "Vectorized 2D Random Walk",
+        "description": "A particle starts at the origin and has the option of randomly choosing one of four directions for each step.",
+        "image": "images/randomwalk.png",
+        "link": "myFiles/project1.html"
+	},
+    {
+        "name": "Relativistic Energy",
+        "description": "Example lab report:  Shows relativistic expressions are correct for masses with speeds approaching the speed of light.",
+        "image": "images/relativistic_lab.PNG",
+        "link": "myFiles/relativity.pdf"
     }
+    
 ]
