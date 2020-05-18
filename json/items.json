@@ -35,18 +35,6 @@
         "description": "Exercises from Chapter 2 of Mark Newman's \"Computational Physics\".",
         "image": "images/Ch2_img.PNG",
         "link": "myFiles/Chapter_02.html"
-    },
-    {
-        "name": "Python Pandas Tutorial",
-        "description": "This guide uses `pandas` in Jupyter to analyze sales data for an imaginary stationery company.",
-        "image": "images/pythonpandas.PNG",
-        "link": "myFiles/MyFirstPanda.html"
-    },
-    {
-        "name": "Vectorized 2D Random Walk",
-        "description": "A particle starts at the origin and has the option of randomly choosing one of four directions for each step.",
-        "image": "images/randomwalk.png",
-        "link": "myFiles/project1.html"
-	}
+    }
     
 ]
